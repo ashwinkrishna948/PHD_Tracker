@@ -23,4 +23,6 @@
 
 11. [PhD in Responsible Human-AI Collaboration (1.0 FTE) (V25.0434)](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S000BFQP)
 
+12. [PhD position – “querying knowledge graphs representation spaces” M/F](https://scholarshipdb.net/scholarships-in-France/Ph-D-Position-Querying-Knowledge-Graphs-Representation-Spaces-M-F-Cnrs=4gqJQiCF8BG_4gzEeuBOuw.html)
+
 
