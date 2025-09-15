@@ -23,6 +23,16 @@
 
 11. [PhD in Responsible Human-AI Collaboration (1.0 FTE) (V25.0434)](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S000BFQP)
 
-12. [PhD position – “querying knowledge graphs representation spaces” M/F](https://scholarshipdb.net/scholarships-in-France/Ph-D-Position-Querying-Knowledge-Graphs-Representation-Spaces-M-F-Cnrs=4gqJQiCF8BG_4gzEeuBOuw.html)
+12. [PhD Position F/M Being exposed only to the risks I am willing to take](https://jobs.inria.fr/public/classic/en/offres/2025-09322)
+
+13. [PhD student in Computing Science with focus on Visual Language Grounding](https://scholarshipdb.net/scholarships-in-Sweden/Ph-D-Student-In-Computing-Science-With-Focus-On-Visual-Language-Grounding-Ume-University=q096Oa2D8BG_4gzEeuBOuw.html)
+
+14. [PhD position – “querying knowledge graphs representation spaces” M/F](https://scholarshipdb.net/scholarships-in-France/Ph-D-Position-Querying-Knowledge-Graphs-Representation-Spaces-M-F-Cnrs=4gqJQiCF8BG_4gzEeuBOuw.html)
+
+15. [Ph.D. (M/F) in software engineering and artificial intelligence](https://emploi.cnrs.fr/Offres/Doctorant/UMR5800-ROMROB-001/Default.aspx?lang=EN)
+
+16. [EN/FR : Grounding a Multimodal Speech Language Model Through Physical and Social Interaction](https://miai-cluster.univ-grenoble-alpes.fr/medias/fichier/phd-description-devai_1755695461743-pdf?ID_FICHE=1469175&INLINE=FALSE)
+
+17. 
 
 
