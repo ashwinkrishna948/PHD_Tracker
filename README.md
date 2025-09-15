@@ -31,8 +31,5 @@
 
 15. [Ph.D. (M/F) in software engineering and artificial intelligence](https://emploi.cnrs.fr/Offres/Doctorant/UMR5800-ROMROB-001/Default.aspx?lang=EN)
 
-16. [EN/FR : Grounding a Multimodal Speech Language Model Through Physical and Social Interaction](https://miai-cluster.univ-grenoble-alpes.fr/medias/fichier/phd-description-devai_1755695461743-pdf?ID_FICHE=1469175&INLINE=FALSE)
-
-17. 
 
 
