@@ -14,4 +14,13 @@
 
 7. [Three-year PhD position in Artificial Intelligence for Clinical Anesthesia and Risk Evaluation (AI-CARE) (funded by Amidex)](https://academicpositions.com/ad/aix-marseille-universite/2025/three-year-phd-position-in-artificial-intelligence-for-clinical-anesthesia-and-risk-evaluation-ai-care-funded-by-amidex/236166)
 
-8. 
+8. [PhD Positions in the field of Cognitive Neuroimaging](https://academicpositions.com/employer/the-international-max-planck-research-school-imprs-on-cognitive-neuroimaging)
+
+9. [Fully Funded PhD Scholarship (Spring/Fall 2026) at Nanyang Technological University, Singapore
+{AI for Drug Discovery and Multi-Modal Large Language Models for Biomedical Science}](https://jobrxiv.org/job/nanyang-technological-university-27778-fully-funded-phd-scholarship-spring-fall-2026/)
+
+10.[PhD Positions in Data Science](https://jobrxiv.org/job/helmholtz-zentrum-munchen-27778-phd-positions-in-data-science/)
+
+11.[]()
+
+
