@@ -21,6 +21,6 @@
 
 10. [PhD Positions in Data Science](https://jobrxiv.org/job/helmholtz-zentrum-munchen-27778-phd-positions-in-data-science/)
 
-11.[]()
+11. [PhD in Responsible Human-AI Collaboration (1.0 FTE) (V25.0434)](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S000BFQP)
 
 
