@@ -19,7 +19,7 @@
 9. [Fully Funded PhD Scholarship (Spring/Fall 2026) at Nanyang Technological University, Singapore
 {AI for Drug Discovery and Multi-Modal Large Language Models for Biomedical Science}](https://jobrxiv.org/job/nanyang-technological-university-27778-fully-funded-phd-scholarship-spring-fall-2026/)
 
-10.[PhD Positions in Data Science](https://jobrxiv.org/job/helmholtz-zentrum-munchen-27778-phd-positions-in-data-science/)
+10. [PhD Positions in Data Science](https://jobrxiv.org/job/helmholtz-zentrum-munchen-27778-phd-positions-in-data-science/)
 
 11.[]()
 
