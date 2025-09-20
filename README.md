@@ -31,5 +31,13 @@
 
 15. [Ph.D. (M/F) in software engineering and artificial intelligence](https://emploi.cnrs.fr/Offres/Doctorant/UMR5800-ROMROB-001/Default.aspx?lang=EN)
 
+16. [PhD Position on Perceptual Foundation Models](https://werkenbij.uva.nl/en/vacancies/phd-position-on-perceptual-foundation-models-netherlands-14417)
+
+17. [ELLIS Common PHD Application - A virtual info session for prospective PhD candidates will be held on October 1st with information about the whole PhD program, the call for applications, application materials, and timeline ](https://ellis.eu/news/ellis-phd-program-call-for-applications-2025)
+
+18. [PHD - AI4Science - Imperial College,London](https://x.com/bose_joey/status/1966077998676738062)
+
+19. 
+
 
 
